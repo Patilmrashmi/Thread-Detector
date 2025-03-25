@@ -7,8 +7,7 @@ Fabric quality assessment is crucial in the textile industry, with thread count 
 ## Key Features
 
 - Faster and more accurate than manual counting
-- Works with different fabric weave patterns
-- Automated classification of dense and loose weaves
+- Works with Cotton fabric weave pattern
 - Cost-effective solution for textile quality control
 
 ## Technologies Used
@@ -91,24 +90,24 @@ python main.py
 
 ## Expected Output
 
--Total Thread Count (Warp and Weft)
--Processed Image with Detected Threads
--Graphical Thread Projection Plots
+- Total Thread Count (Warp and Weft)
+- Processed Image with Detected Threads
+- Graphical Thread Projection Plots
 
 
 ## Output image
 ![Alt Text](imagethread.png)
 
--Displays the horizontally and vertically detected threads in the cloth.
+- Displays the horizontally and vertically detected threads in the cloth.
 
 ![Alt Text](image.png)
 
--Shows the final thread count.
+- Shows the final thread count.
 
 The final count is multiplied by 8, as the image is zoomed in by a factor of 8.
 
 ## Future Enhancements
--AI-based Thread Classification - Train a neural network for more robust fabric analysis
--Mobile and IoT Integration - Develop a web/mobile app for remote monitoring
+- AI-based Thread Classification - Train a neural network for more robust fabric analysis
+- Mobile and IoT Integration - Develop a web/mobile app for remote monitoring
 
 
