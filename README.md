@@ -51,13 +51,15 @@ touch /boot/ssh
 # Find the Raspberry Pi's IP Address
 hostname -I
 ```
-Open PuTTY
-Enter Raspberry Pi's IP Address
-Set Port: 22
-Set Connection Type: SSH
-Log in with:
-Username: pi
-Password: raspberry
+- Open PuTTY
+- Enter Raspberry Pi's IP Address
+- Set Port: 22
+- Set Connection Type: SSH
+- Log in with:
+  ```bash 
+  Username: pi
+  Password: raspberry
+  ```
 
 ## 3. Enable Camera Module
 ```bash
