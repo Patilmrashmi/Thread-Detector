@@ -95,6 +95,15 @@ python main.py
 -Processed Image with Detected Threads
 -Graphical Thread Projection Plots
 
+
+## Output image
+
+Image 1: Displays the horizontally and vertically detected threads in the cloth.
+
+Image 2: Shows the final thread count.
+
+The final count is multiplied by 8, as the image is zoomed in by a factor of 8.
+
 ## Future Enhancements
 -AI-based Thread Classification - Train a neural network for more robust fabric analysis
 -Mobile and IoT Integration - Develop a web/mobile app for remote monitoring
