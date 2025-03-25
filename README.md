@@ -97,10 +97,11 @@ python main.py
 
 
 ## Output image
+![Alt Text](thread image.png)
+Displays the horizontally and vertically detected threads in the cloth.
 
-Image 1: Displays the horizontally and vertically detected threads in the cloth.
-
-Image 2: Shows the final thread count.
+![Alt Text](image.png)
+Shows the final thread count.
 
 The final count is multiplied by 8, as the image is zoomed in by a factor of 8.
 
